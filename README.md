@@ -100,7 +100,6 @@ Astro 5            ·  Static site generator, multi-language, file-based routing
 Preact islands     ·  Interactive calculators, hydrated only when scrolled into view
 TypeScript         ·  Strict types across the math engine and component library
 Cloudflare Pages   ·  Global edge deployment, automatic from main
-Cloudflare Workers ·  Edge logic for forms, A/B testing, geo-routing
 Tailwind CSS       ·  Utility-first styling on a shared design token system
 ```
 
@@ -126,7 +125,9 @@ The tools illustrate. The user decides.
 
 **Partnerships, licensing, press, or just a hello**
 
-[**brightscalelabs.com/contact** →](https://brightscalelabs.com/contact/)
+📧 [**contact@brightscalelabs.com**](mailto:contact@brightscalelabs.com)
+
+[**LinkedIn**](https://www.linkedin.com/in/brightscale-labs-brightscale-261b743a8) &nbsp;·&nbsp; [**X / Twitter**](https://x.com/BrightscaleL) &nbsp;·&nbsp; [**Website**](https://brightscalelabs.com)
 
 </div>
 
@@ -134,10 +135,37 @@ The tools illustrate. The user decides.
 
 <div align="center">
 
-<sub>**BrightScale Labs Limited** · Registered in England & Wales · Exeter, United Kingdom</sub>
+### Explore
 
-<sub>[Website](https://brightscalelabs.com) · [Businesses](https://brightscalelabs.com/businesses/) · [Contact](https://brightscalelabs.com/contact/)</sub>
+[Brands](https://brightscalelabs.com/businesses/) &nbsp;·&nbsp; [About](https://brightscalelabs.com/about/) &nbsp;·&nbsp; [Contact](https://brightscalelabs.com/contact/) &nbsp;·&nbsp; [Privacy](https://brightscalelabs.com/privacy/) &nbsp;·&nbsp; [Terms](https://brightscalelabs.com/terms/)
 
-<sub>© 2026 BrightScale Labs Limited. All rights reserved.</sub>
+</div>
+
+---
+
+<div align="center">
+
+### Company information
+
+**BrightScale Labs Limited**
+
+A company registered in England and Wales
+
+| | |
+|---|---|
+| **Registered office** | 8 Flay Field, Tithebarn, Exeter, England, EX1 3YA |
+| **Company number** | [16990009](https://find-and-update.company-information.service.gov.uk/company/16990009) |
+| **Jurisdiction** | England and Wales |
+| **Contact** | [contact@brightscalelabs.com](mailto:contact@brightscalelabs.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>© 2026 BrightScale Labs Limited. Crafted with care.</sub>
+
+<sub>All trademarks and brand names are the property of their respective owners.</sub>
 
 </div>
