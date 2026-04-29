@@ -51,7 +51,7 @@ A comprehensive library of personal finance, investment, and money-decision calc
 
 Construction, trades, and engineering calculators for faster, sharper estimates. Built for tradespeople, project managers, and DIY-ers who need accurate numbers without wading through ads or sign-up walls. Dual metric and imperial unit support throughout.
 
-`305 tools · UK / US / localised · Materials, structural, cost estimation`
+`232 tools · UK / US / localised · Materials, structural, cost estimation`
 
 ---
 
@@ -60,7 +60,7 @@ Construction, trades, and engineering calculators for faster, sharper estimates.
 
 Printable PDFs that don't waste your toner — math worksheets, planners, puzzles, handwriting practice, and classroom kits. Each tool generates a fresh PDF on demand, fully customisable, with no signup. Built for teachers, parents, and home educators.
 
-`331 tools · 9 generator engines · Pinterest-led distribution`
+`358 tools · 9 generator engines · Pinterest-led distribution`
 
 ---
 
@@ -69,7 +69,7 @@ Printable PDFs that don't waste your toner — math worksheets, planners, puzzle
 
 Fitness and health metric calculators that turn data into progress. Body composition, strength benchmarks, training load, recovery, and nutrition baselines — all built around recognised formulas with transparent methodology.
 
-`267 tools · 22 categories · Educational use, not medical advice`
+`102 tools · 11 categories · Educational use, not medical advice`
 
 ---
 
