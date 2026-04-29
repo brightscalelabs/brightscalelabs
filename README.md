@@ -42,7 +42,7 @@ We don't chase trends. We pick categories where existing tools are slow, ad-heav
 
 A comprehensive library of personal finance, investment, and money-decision calculators — built to be the most trustworthy reference for everyday financial questions on the web. Every tool shows its formula, sources, and assumptions, with results that update in real time as you adjust inputs.
 
-`2,000+ tools · 6 languages · 18 categories · UK & US primary markets`
+`1,900+ tools · 18 categories · UK & US primary markets`
 
 ---
 
@@ -51,7 +51,7 @@ A comprehensive library of personal finance, investment, and money-decision calc
 
 Construction, trades, and engineering calculators for faster, sharper estimates. Built for tradespeople, project managers, and DIY-ers who need accurate numbers without wading through ads or sign-up walls. Dual metric and imperial unit support throughout.
 
-`305 tools · UK / US / CA / AU localised · Materials, structural, cost estimation`
+`305 tools · UK / US / localised · Materials, structural, cost estimation`
 
 ---
 
