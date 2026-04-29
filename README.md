@@ -42,7 +42,7 @@ We don't chase trends. We pick categories where existing tools are slow, ad-heav
 
 A comprehensive library of personal finance, investment, and money-decision calculators — built to be the most trustworthy reference for everyday financial questions on the web. Every tool shows its formula, sources, and assumptions, with results that update in real time as you adjust inputs.
 
-`1,900+ tools · UK & US primary markets`
+`2,000+ tools · 6 languages · 18 categories · UK & US primary markets`
 
 ---
 
@@ -81,27 +81,12 @@ Fitness and health metric calculators that turn data into progress. Body composi
 
 | Principle | What it means in practice |
 |---|---|
-| **Fast** | Static HTML, served from Cloudflare's edge in 300+ cities. No spinners, no loading states, no waiting. |
-| **Reliable** | Pre-rendered at build time, cached for 24h at the edge. 99.97% rolling uptime across the portfolio. |
+| **Fast** | Static, pre-rendered HTML served from a global edge network. No spinners, no loading states, no waiting. |
+| **Reliable** | Cached at the edge, deployed automatically from main. 99.97% rolling uptime across the portfolio. |
 | **Clear** | One question per tool. Formula visible. Sources cited. No dark patterns, no upsells, no engagement loops. |
 | **Honest about limits** | Calculators illustrate; they don't advise. Every tool carries its disclaimer and points to qualified professionals for decisions that need them. |
 | **Built to last** | Modular component library shared across brands. Adding a new tool means adding one JSON file, not redesigning a page. |
-
----
-
-<div align="center">
-
-## Stack
-
-</div>
-
-```
-Astro 5            ·  Static site generator, multi-language, file-based routing
-Preact islands     ·  Interactive calculators, hydrated only when scrolled into view
-TypeScript         ·  Strict types across the math engine and component library
-Cloudflare Pages   ·  Global edge deployment, automatic from main
-Tailwind CSS       ·  Utility-first styling on a shared design token system
-```
+| **Privacy first** | Calculators run client-side. Your inputs never leave the browser unless you explicitly submit a contact form. |
 
 The full portfolio shares a math engine, design system, and content schema — so quality, performance, and compliance scale linearly with tool count.
 
