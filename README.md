@@ -42,7 +42,7 @@ We don't chase trends. We pick categories where existing tools are slow, ad-heav
 
 A comprehensive library of personal finance, investment, and money-decision calculators — built to be the most trustworthy reference for everyday financial questions on the web. Every tool shows its formula, sources, and assumptions, with results that update in real time as you adjust inputs.
 
-`2,000+ tools · 6 languages · 18 categories · UK & US primary markets`
+`1,900+ tools · UK & US primary markets`
 
 ---
 
